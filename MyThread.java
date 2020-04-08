@@ -1,5 +1,5 @@
 package thrds1;
-
+....
 public class MyThread extends Thread {
 	// constr
 	public MyThread(String nm) {
